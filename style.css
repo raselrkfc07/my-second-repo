@@ -8,5 +8,9 @@ p {
 }
 h1 {
   color: #fff;
-  background: yellow
+  background: yellow;
+}
+img {
+  width: 50%;
+  margin: 0 auto;
 }
